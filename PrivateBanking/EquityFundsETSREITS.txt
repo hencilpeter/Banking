@@ -34,10 +34,25 @@
 			   SIBOR (SG Interbank Offered Rate) – determined by the demand and supply of funds in the SG interbank market
 			   SOR (Swap Offer Rate) – derived from USD LIBOR, USD/SGD FX Swap rates. SOR tends to be more volatile
 		(*) Fiscal Policy
+		    - Government actions that alter the levels of government spending and taxes
+			  e.g.Trump reduced US taxes in Dec ‘17, benefiting wealthy individuals.
 		(*) Monetary Policy
+			- Policy measures by Central Banks.
+			-  Interest rate regime is most common
+			- Typical stimulative measures when economy is weak is to lower rates, and vice versa
+			- Lower rates cheapen cost of borrowing by consumers and businesses, thus encourages consumption and business investments 
 		
 	1.2 Bottom-up Valuation Approach 
 			Bottom-up is an investment approach that focuses on the fundamentals of the individual company rather than the overall macro environment. 
 	   i.e findings stokcs that provide superior returns regardless of teh market and industry outlook. 
 	       - fundamental analysis
 		   - technical analysis 
+		   
+(*) INDUSTRY ANALYSIS
+	- Three primary objectives
+		The sensitivity of the industry to key macro factors
+		How the industry operates and the key performance metrics
+		The competitive structure of the industry
+	- Generally, an industry’s prospects within the global business environment determines how well a firm fares, 
+	  thus industry analysis precedes company analysis 	
+	- Few companies can do well in an industry with poor outlook
