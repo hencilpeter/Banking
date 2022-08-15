@@ -56,3 +56,83 @@
 	- Generally, an industry’s prospects within the global business environment determines how well a firm fares, 
 	  thus industry analysis precedes company analysis 	
 	- Few companies can do well in an industry with poor outlook
+	- Global Industry Classification System (GICS) has 11 economic sectors, which are groups of industries that have similar exposure to key economic factors
+	- Porter’s Five Forces 
+								           Threat of new entrants 
+Bargaining power of suppliers 	    (rivarly among existing competitors) 	  Bargaining power of buyers
+                                   Thread of substitute products or services 
+								   
+
+(*) FUNDAMENTAL ANALYSIS
+ - What is Equities?
+ - It is the value of assets owned by company after deducting the value of its liabilities
+ - Equities holders’ claim on the company’s assets rank after creditors and bond holders
+ - Ordinary Shares – gives owner voting rights and share of profit after obligations, via dividends
+ - Preferential Shares – no voting rights, preferred over Ordinary shares in that profit is distributed to them first
+
+ - Valuing Equities
+    2 Common stock valuation approaches
+    (i) Discounted Cash Flow Techniques
+	          Present Value of Cash Flows (PVCF)
+        Present Value of Dividends (DDM)
+		  - The DDM valuation approach estimates the value of the firm from the dividends that the firm pays
+          - The stock value today depends on the dividends the investor expects to receive before the stock is sold
+          - The future selling price will depend on future dividends that the stock is expected to distribute
+
+    (ii) Relative Valuation Techniques
+	     Financial Ratios - P/E, P/CF, P/BV
+		 Objective is to value assets based on how similar assets are currently priced in the market
+		 -  Relative valuation is popular because
+			(i) Requires less assumptions compared to the DCF models
+			(ii) Simpler to understand
+			(iii)More reflective of current market valuation
+			(iv) Disadvantages of Relative Valuation
+			(v) Over/Under-valued – if market is over/under-valuing comparable firms, our relative valuation will similarly be skewed
+			(vi) Lack of transparency – underlying assumptions for the variables may not be immediately clear
+    		 
+			 To determine the value of an economic entity, we compare with similar entities on the basis of several relative ratios that compare its stock price to variables that affect a stock’s value:
+				• Earnings – Price/Earnings (P/E)
+				• Book Value – Price/Book Value (P/B)
+				• Sales – Price/Sale (P/S)
+			(i) P/E = Current Market Price / Earnings
+			- Analysts could use the most recent past earnings, often referred to as the Trailing 12-months (TTM) Earnings (EPS), and the ratio is sometimes called Trail or Historical P/E
+			- Or use expected next year’s earnings, and it will be called Future or Forecast or Forward P/E
+			Common choices of benchmark for P/E:
+			• Average P/E for the company’s peer group of companies within an industry
+			• Average P/E of company’s industry/sector (e.g. GICS)
+			• P/E of a representative equity index
+				For all the above, get also the average PAST value of the P/Es
+			• A stock could then be compared with one similar company, average of the peer group companies, industry, or the representative index – to determine if its over/under valued
+			• It should also be compared to its OWN historical P/E
+			(ii) P/E-to-Growth (PEG) ratio = (Stock’s P/E) / (expected % earnings growth)
+			  i.e How do we adjust for expected earnings growth in P/E?
+				• Lower PEG is more attractive, all else equal
+				• PEG < 1 is used as a Value indicator sometimes
+			(iii) Price to Book Value
+				•  “Book Value” refers to the fact that the measurement of value comes from accounting records or books, in contrast to market value
+				• Book Value per share reflects the investment that shareholders have made in the company
+				• Defined more precisely, we use just common shareholders’ equity (Total Assets minus total liabilities) and also subtract any preferred stock
+				• So Book value refers to Book value of Equity
+		When to use P/B?
+		•  Book Value per share is good for valuing companies composed mainly of liquid assets, such as finance institutions and banks. These companies’ BV may be close to their market values
+		• Book Value also used to value companies that are not expected to continue as a going concern 
+		• Book Value is generally positive and can be used even when EPS is 0 or negative
+		• Book Value is more stable than EPS, so P/B may be more meaningful when EPS is abnormally high or low or highly variable
+		 (iv) Price to Sales
+		 When to use P/S?
+			• Sales are less subject to manipulation than other fundamentals like EPS or Book Value, so P/S paints a different picture to P/E and P/B
+			• Sales are positive even when EPS is negative, so can be used at all times
+			• Sales is more stable than EPS, so P/S is more meaningful when EPS is abnormally high or low
+			• P/S has been viewed as appropriate for valuing stocks of mature, cyclical, and zero-income companies
+	    (v) Other Common Valuation Ratios
+		• Cash Flow – Price/Cash Flow (P/CF)
+		• Dividends – Price/Dividends and Dividend Yield
+		• Instead of just using Price of stock, increasingly more are using Enterprise Value
+		Enterprise Value (EV) = Market Capitalization + Total Debt – Cash and cash equivalents
+	• EV considers financial leverage, and more accurately reflects the takeover cost if a company were to be bought
+	• EV/EBITDA is by far the most widely used EV multiple
+
+Relative Valuation
+	Using the P/B measure, which of the 3 local banks is the cheapest?
+	• Which local bank has the highest dividend yield? 
+	• Which local bank stock would you recommend your mother to buy?
