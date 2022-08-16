@@ -1,75 +1,72 @@
-
 1. VALUING EQUITIES
 	1.1 Top-Down Valuation Approach 
 		Focuses on the macro factors of the economy, such as GDP, employment, taxation, interest rates, etc. before examining micro factors such as specific sectors or companies. 
 		i.e. Economy, market and industry have a significant impact on the total returns for individual stocks:
 			- macro-economic analysis 
-			- industry analysis 
-			
-		(*) Macro-economic Analysis
-		    (i) A Top-down approach to understanding a business begins with the global economy.
-		    (ii) Domestic businesses are rarely isolated and operate as part of the global economy.
-			(iii) Domestic economics are very exposed to its domestic condition like growth rate, political stability and currency risk. 
-			(e.g russia-ukrian war, covid-19 pandemic, rising inflation and rates )
-		(*) Gross Domestic Product (GDP) 
-		    (i) used as single measure of a contry's overall economic activity 
-			(ii) measures market value of final goods and services produced domestically. 
-			(iii) GDP figures typically expressed in real (inflation adjusted) term, referred to as real GDP growth. 
-		(*) Inflation
-			(i) Measured using the rate of change of the consumer price index (CPI), which represents the price of a basket of goods and services bought by a typical consumer
-			(ii) Moderate inflation (~2%) is good for the economy, by encouraging people to spend rather than save, boosting economic growth
-			(iii) High inflation or hyperinflation (>10%), usually due to high money supply growth or political turmoil, is bad. Domestic currency falls, and capital flows to other assets (e.g. Gold) and more stable countries
-		(*) Interest Rates
-			(i)  Higher growth, inflation tend to lead to higher rates. 
-			(ii) Reflect the cost of borrowing
-			(iii)Impacts business performances via:
-				For the firm:
-				- lower inerest rates imply less interest expense and higher profit. 
-				- reduces cost of capital and increasing viable investment opportunities. 
-				For the customer:
-				- lower interest rates reduces the cost of current consumption (e.g. cheaper to buy a car on a loan)
-				- increasing sales for businesses. 
-			Additional notes: 
-			(*) SIBOR versus SOR
-			   SIBOR (SG Interbank Offered Rate) – determined by the demand and supply of funds in the SG interbank market
-			   SOR (Swap Offer Rate) – derived from USD LIBOR, USD/SGD FX Swap rates. SOR tends to be more volatile
-		(*) Fiscal Policy
-		    - Government actions that alter the levels of government spending and taxes
-			  e.g.Trump reduced US taxes in Dec ‘17, benefiting wealthy individuals.
-		(*) Monetary Policy
-			- Policy measures by Central Banks.
-			-  Interest rate regime is most common
-			- Typical stimulative measures when economy is weak is to lower rates, and vice versa
-			- Lower rates cheapen cost of borrowing by consumers and businesses, thus encourages consumption and business investments 
+			- industry analysis 	
 		
 	1.2 Bottom-up Valuation Approach 
-			Bottom-up is an investment approach that focuses on the fundamentals of the individual company rather than the overall macro environment. 
-	   i.e findings stokcs that provide superior returns regardless of teh market and industry outlook. 
+		Bottom-up is an investment approach that focuses on the fundamentals of the individual company rather than the overall macro environment. 
+	    i.e findings stokcs that provide superior returns regardless of teh market and industry outlook. 
 	       - fundamental analysis
 		   - technical analysis 
-		   
+
+(*) Macro-economic Analysis
+	(i) A Top-down approach to understanding a business begins with the global economy.
+	(ii) Domestic businesses are rarely isolated and operate as part of the global economy.
+	(iii) Domestic economics are very exposed to its domestic condition like growth rate, political stability and currency risk. 
+	(e.g russia-ukrian war, covid-19 pandemic, rising inflation and rates )
+(*) Gross Domestic Product (GDP) 
+	(i) used as single measure of a contry's overall economic activity 
+	(ii) measures market value of final goods and services produced domestically. 
+	(iii) GDP figures typically expressed in real (inflation adjusted) term, referred to as real GDP growth. 
+(*) Inflation
+	(i) Measured using the rate of change of the consumer price index (CPI), which represents the price of a basket of goods and services bought by a typical consumer
+	(ii) Moderate inflation (~2%) is good for the economy, by encouraging people to spend rather than save, boosting economic growth
+	(iii) High inflation or hyperinflation (>10%), usually due to high money supply growth or political turmoil, is bad. Domestic currency falls, and capital flows to other assets (e.g. Gold) and more stable countries
+(*) Interest Rates
+	(i)  Higher growth, inflation tend to lead to higher rates. 
+	(ii) Reflect the cost of borrowing
+	(iii)Impacts business performances via:
+		For the firm:
+		- lower inerest rates imply less interest expense and higher profit. 
+		- reduces cost of capital and increasing viable investment opportunities. 
+		For the customer:
+		- lower interest rates reduces the cost of current consumption (e.g. cheaper to buy a car on a loan)
+		- increasing sales for businesses. 
+	Additional notes: 
+	(*) SIBOR versus SOR
+	   SIBOR (SG Interbank Offered Rate) – determined by the demand and supply of funds in the SG interbank market
+	   SOR (Swap Offer Rate) – derived from USD LIBOR, USD/SGD FX Swap rates. SOR tends to be more volatile
+(*) Fiscal Policy
+	- Government actions that alter the levels of government spending and taxes
+	  e.g.Trump reduced US taxes in Dec ‘17, benefiting wealthy individuals.
+(*) Monetary Policy
+	- Policy measures by Central Banks.
+	-  Interest rate regime is most common
+	- Typical stimulative measures when economy is weak is to lower rates, and vice versa
+	- Lower rates cheapen cost of borrowing by consumers and businesses, thus encourages consumption and business investments 
+		
 (*) INDUSTRY ANALYSIS
 	- Three primary objectives
 		The sensitivity of the industry to key macro factors
 		How the industry operates and the key performance metrics
 		The competitive structure of the industry
-	- Generally, an industry’s prospects within the global business environment determines how well a firm fares, 
-	  thus industry analysis precedes company analysis 	
+	- Generally, an industry’s prospects within the global business environment determines how well a firm fares, thus industry analysis precedes company analysis 	
 	- Few companies can do well in an industry with poor outlook
 	- Global Industry Classification System (GICS) has 11 economic sectors, which are groups of industries that have similar exposure to key economic factors
 	- Porter’s Five Forces 
-								           Threat of new entrants 
-Bargaining power of suppliers 	    (rivarly among existing competitors) 	  Bargaining power of buyers
-                                   Thread of substitute products or services 
+												Threat of new entrants 
+	Bargaining power of suppliers 	    	(rivarly among existing competitors) 	 	 Bargaining power of buyers
+											Thread of substitute products or services 
 								   
 
 (*) FUNDAMENTAL ANALYSIS
  - What is Equities?
- - It is the value of assets owned by company after deducting the value of its liabilities
- - Equities holders’ claim on the company’s assets rank after creditors and bond holders
- - Ordinary Shares – gives owner voting rights and share of profit after obligations, via dividends
- - Preferential Shares – no voting rights, preferred over Ordinary shares in that profit is distributed to them first
-
+	 - It is the value of assets owned by company after deducting the value of its liabilities
+	 - Equities holders’ claim on the company’s assets rank after creditors and bond holders
+	 - Ordinary Shares – gives owner voting rights and share of profit after obligations, via dividends
+	 - Preferential Shares – no voting rights, preferred over Ordinary shares in that profit is distributed to them first
  - Valuing Equities
     2 Common stock valuation approaches
     (i) Discounted Cash Flow Techniques
@@ -78,7 +75,6 @@ Bargaining power of suppliers 	    (rivarly among existing competitors) 	  Barga
 		  - The DDM valuation approach estimates the value of the firm from the dividends that the firm pays
           - The stock value today depends on the dividends the investor expects to receive before the stock is sold
           - The future selling price will depend on future dividends that the stock is expected to distribute
-
     (ii) Relative Valuation Techniques
 	     Financial Ratios - P/E, P/CF, P/BV
 		 Objective is to value assets based on how similar assets are currently priced in the market
@@ -86,9 +82,9 @@ Bargaining power of suppliers 	    (rivarly among existing competitors) 	  Barga
 			(i) Requires less assumptions compared to the DCF models
 			(ii) Simpler to understand
 			(iii)More reflective of current market valuation
-			(iv) Disadvantages of Relative Valuation
-			(v) Over/Under-valued – if market is over/under-valuing comparable firms, our relative valuation will similarly be skewed
-			(vi) Lack of transparency – underlying assumptions for the variables may not be immediately clear
+		 - Disadvantages of Relative Valuation
+			(i) Over/Under-valued – if market is over/under-valuing comparable firms, our relative valuation will similarly be skewed
+			(ii) Lack of transparency – underlying assumptions for the variables may not be immediately clear
     		 
 			 To determine the value of an economic entity, we compare with similar entities on the basis of several relative ratios that compare its stock price to variables that affect a stock’s value:
 				• Earnings – Price/Earnings (P/E)
@@ -97,13 +93,13 @@ Bargaining power of suppliers 	    (rivarly among existing competitors) 	  Barga
 			(i) P/E = Current Market Price / Earnings
 			- Analysts could use the most recent past earnings, often referred to as the Trailing 12-months (TTM) Earnings (EPS), and the ratio is sometimes called Trail or Historical P/E
 			- Or use expected next year’s earnings, and it will be called Future or Forecast or Forward P/E
-			Common choices of benchmark for P/E:
-			• Average P/E for the company’s peer group of companies within an industry
-			• Average P/E of company’s industry/sector (e.g. GICS)
-			• P/E of a representative equity index
-				For all the above, get also the average PAST value of the P/Es
-			• A stock could then be compared with one similar company, average of the peer group companies, industry, or the representative index – to determine if its over/under valued
-			• It should also be compared to its OWN historical P/E
+				Common choices of benchmark for P/E:
+				• Average P/E for the company’s peer group of companies within an industry
+				• Average P/E of company’s industry/sector (e.g. GICS)
+				• P/E of a representative equity index
+					For all the above, get also the average PAST value of the P/Es
+				• A stock could then be compared with one similar company, average of the peer group companies, industry, or the representative index – to determine if its over/under valued
+				• It should also be compared to its OWN historical P/E
 			(ii) P/E-to-Growth (PEG) ratio = (Stock’s P/E) / (expected % earnings growth)
 			  i.e How do we adjust for expected earnings growth in P/E?
 				• Lower PEG is more attractive, all else equal
@@ -113,11 +109,11 @@ Bargaining power of suppliers 	    (rivarly among existing competitors) 	  Barga
 				• Book Value per share reflects the investment that shareholders have made in the company
 				• Defined more precisely, we use just common shareholders’ equity (Total Assets minus total liabilities) and also subtract any preferred stock
 				• So Book value refers to Book value of Equity
-		When to use P/B?
-		•  Book Value per share is good for valuing companies composed mainly of liquid assets, such as finance institutions and banks. These companies’ BV may be close to their market values
-		• Book Value also used to value companies that are not expected to continue as a going concern 
-		• Book Value is generally positive and can be used even when EPS is 0 or negative
-		• Book Value is more stable than EPS, so P/B may be more meaningful when EPS is abnormally high or low or highly variable
+				When to use P/B?
+				• Book Value per share is good for valuing companies composed mainly of liquid assets, such as finance institutions and banks. These companies’ BV may be close to their market values
+				• Book Value also used to value companies that are not expected to continue as a going concern 
+				• Book Value is generally positive and can be used even when EPS is 0 or negative
+				• Book Value is more stable than EPS, so P/B may be more meaningful when EPS is abnormally high or low or highly variable
 		 (iv) Price to Sales
 		 When to use P/S?
 			• Sales are less subject to manipulation than other fundamentals like EPS or Book Value, so P/S paints a different picture to P/E and P/B
@@ -128,11 +124,191 @@ Bargaining power of suppliers 	    (rivarly among existing competitors) 	  Barga
 		• Cash Flow – Price/Cash Flow (P/CF)
 		• Dividends – Price/Dividends and Dividend Yield
 		• Instead of just using Price of stock, increasingly more are using Enterprise Value
-		Enterprise Value (EV) = Market Capitalization + Total Debt – Cash and cash equivalents
-	• EV considers financial leverage, and more accurately reflects the takeover cost if a company were to be bought
-	• EV/EBITDA is by far the most widely used EV multiple
+				Enterprise Value (EV) = Market Capitalization + Total Debt – Cash and cash equivalents
+		• EV considers financial leverage, and more accurately reflects the takeover cost if a company were to be bought
+		• EV/EBITDA is by far the most widely used EV multiple
 
 Relative Valuation
 	Using the P/B measure, which of the 3 local banks is the cheapest?
 	• Which local bank has the highest dividend yield? 
 	• Which local bank stock would you recommend your mother to buy?
+	
+
+========================================================================
+
+(*) What’s an ETF?
+		-  An ETF is a collection of securities (e.g. stocks, bonds) typically tracking an underlying index, and it trades on an exchange, just like a stock
+		-  An ETF could also track a certain industry or strategy
+		-  ETF prices fluctuate intraday just like a stock
+		-  Charges a low management fee
+	 Examples of ETFs:
+		• SPY – SPDR S&P 500
+		• IVV – Ishares Core S&P 500 ETF
+		• QQQ – Invesco Nasdaq 100
+		• GLD – SPDR Gold Shares
+		• Lion Phillip S-REIT ETF
+
+(*) ETFs versus Stocks
+						ETFs 							Stocks
+Diversification 		Yes, 1 ETF gives you			No
+						access to many
+						underlying stocks
+
+Exchange Traded 		Yes 							Yes
+
+Management Fees 		Yes, <1% 						No
+
+Sales Fees 				Brokerage (~0.1%) 				Brokerage (~0.1%)
+
+Strategies 				Yes, linked to index/			No, just the company’s
+						sector/ theme					underlying businesses
+
+
+Liquidity 				Varies 							Varies
+
+(*) MUTUAL FUNDS
+  What’s a Mutual Fund?
+   - A mutual fund is an investment vehicle made up of a pool of funds collected from investors for the purpose of investing in securities such as stocks, bonds, and other assets
+   - Mutual funds are run by money managers, who invest the fund’s capital to produce capital gains and/or income for the fund’s investors
+   - Mutual funds charge annual fees and in return, attempt to beat the market (benchmark)
+(*) Types of Funds
+	Open-end Funds
+		• issue redeemable securities
+		• Shares are bought and sold at their net asset value (NAV), based on the value of the fund’s underlying securities (typically computed at end of day)
+		• Usually buy and sell shares directly from the fund
+Closed-end Funds
+		• have a fixed number of shares
+		• May be traded on an exchange, the fund may trade at a premium or discount to NAV, depending on supply and demand
+		• Usually buy or sell shares through a broker (just like common shares)
+		
+		Closed-end Fund 					Open-end Fund
+		----------------					--------------	
+		Fixed number of shares 				Shares are unlimited (can be created on demand)
+		
+		Can’t take on new capital once 		New capital can come in anytime
+		operations begin
+
+		Price reflects market value (not 	Price usually fixed around NAV
+		necessarily NAV)
+
+		Price determined by demand &		Front-end load or back-end load
+		supply								fees may be charged
+
+		Often has an end date where			No end trading date
+		funds are returned
+
+		Example: Private Equity Funds 		Example: most mutual funds
+		
+Size of Mutual Fund AUM (hencil - for reference) 
+---------------------------
+Mutual fund industry globally manages ~$46.7 trillion
+	- as of end 2018, Investment Company Institute
+• US Mutual funds manages about $20 trillion
+	- as of end Aug 2019, mutualfunds.com
+	- Equities funds account for >50%, or ~$10.49 trillion
+	- Fixed Income, Balanced, and Money Market funds make up the rest
+
+Mutual Funds versus ETFs
+------------------------
+
+						Mutual Funds 				ETFs
+Diversification 		Yes 						Yes
+
+Exchange Traded 		For some 					Yes
+
+Management Fees			Yes, typically 1-2% 		Yes, typically <1%
+
+Sales Fees 				Yes 						No
+
+Strategies 				Yes, various 				Yes, linked to index or sectors
+
+Liquidity 				Good 						Excellent, as good as a stock
+
+Intraday  				No; buy/sell at end of		Yes
+Pricing/Trading			day net asset value		
+						(NAV) per share	
+
+
+Active/Passive			Typically Active 			Typically Passive
+Management
+
+
+REITS
+======
+•  A collective investment scheme that offers exposure to real estate
+• A vehicle that allows investors to pool their capital together so that they collectively own a portfolio of income producing properties
+• A platform that enables major property owners to recycle their capital and grow their portfolio of real estate under their management
+
+How does a REIT work?
+---------------------
+1. Unit holders pool their capital together to invest in large-scale income producing properties.
+2. Lenders provide loans to the Trust to finance the purchase, limited to 45% of value of assets.
+3. Sponsor that contributes the properties but remains as the largest unit holder: 30-40% of issued units.
+4. Sponsor owns the REIT Manager and Property Manager, thus receiving the annual asset management and property management fee.
+5. Properties contribute rental income to the Trust, of which at least 90%, after deducting expenses has to be distributed to unit holders. 
+6. Trustee ensures the properties are managed in accordance to the trust deed, and the interest of the unit holders are protected.
+
+A Differentiated Asset Class
+----------------------------
+Bonds 
+	• Fixed Yield
+	• Limited volatility
+	• No Growth
+Equities	
+	• Variable Yields
+	• High volatility
+	• Potential Growth
+REITs 
+	• Higher Yield (Must distribute more than 90% of income as dividend)
+	• Low volatility
+	• Low but stable growth (Gearing limit of 45%)
+	
+Key Risks of Investing in a REIT
+---------------------------------
+• Market Risks – Units are traded in the stock market.
+					The price of the unit of a REIT is more volatile than the price or value of the underlying property
+• Income Risks – Payment of dividend may be disrupted by falling rental, financing cost, non-renewal of lease and accident/natural disaster
+• Concentration Risks – Properties in a REIT is normally focused on a particular type, industry or geographical location
+• Leverage Risks – REITs rely on leveraging to increase its return on equity and boost the dividend yield. A rise in borrowing cost may significantly undermine REIT’s ability to pay dividends
+• Refinancing Risks – REITs may face difficulties in obtaining debt refinancing, especially if the maturity profile of the debt is not evenly spread-out
+• Currency Risks – Movements in currency exchange can significantly affect the amount of dividends from overseas properties
+
+
+So many REITs, how to choose?
+----------------------------
+1 main macro factor:
+	• Interest Rate Direction
+2 quantitative criteria:
+	• Dividend Yield (note: high <> good)
+	• Price to Book
+3 qualitative considerations:
+	• Sector
+	• Sponsor
+	• Geography
+
+STOCK TRADING STRATEGIES
+------------------------
+- Yield (Dividends)  
+   (Also called Dividends strategy )
+    total dividend paid per year / price per share = dividend yield 
+    what are we after ? High dividend yields of course! i.e > 10 year bond yield 
+	 > 2 to 3*1-year risk free rate 
+	 steady or slightly growing dividends 
+	 
+- Long Term Capital Gains
+• Key here is “Long-Term”, defined as >1 year or longer
+• Two types of stocks give you L/T Capital Gains
+	(i) Growth Stocks ( High growth in profit . retaining its profit for reinvestment)
+	(ii) Value Stocks ( stock trading below its fundamentals - remember valuation technique, price trading below average level) 
+• Both types are capable of producing L/T gains if right
+• Both types are unlikely (though not impossible) to show significant results if only held for the S/T
+
+- Short Term Trading 
+  (5 short term strategies)
+  (i) Thematic Trading (Trading on a specific theme. Theme might be based on sentiment or developing trend) 
+  (ii) TradingLaggards   (A laggard stock is one whose stock price is lagging other similar stocks in the industry/sector or market)
+  (iii) Trading on Mispricing   (mispriced for a variety of reasons • Overreaction to a good/bad news )
+  (iv) Technical Trading  (Based on chart patterns)
+  (v) Speculative Trading (Buying or selling on reasons not covered in the 4 S/T strategies
+above are collectively known as “Speculative” Trading) 
+   
